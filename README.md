@@ -139,7 +139,7 @@ Depending on your system, you may need to use `python3` instead.
 ### Clone the Repository
 
 ```bash
-git clone <YOUR-REPOSITORY-URL>
+git clone https://github.com/Royalty-Labs/01-python-foundations.git
 ```
 
 Navigate into the cloned repository:
